@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PETAGRAM</string>
+    <string name="text_name_dog">name_dog</string>
+    <string name="text_num_likes">5</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_child">Tus favoritos</string>
+</resources>

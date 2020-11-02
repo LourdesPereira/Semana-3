@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="elevacion_actinbar">4dp</dimen>
+    <dimen name="corner_radius">4dp</dimen>
+
+
+    <!-- PROPIEDADES DEL TEXTO NOMBRE DE LOS DOGS name_dog  -->
+    <dimen name="size_name_dog">30sp</dimen>
+    <dimen name="margin_left_name_dog">75dp</dimen>
+    <dimen name="margin_top_name_dog">400dp</dimen>
+    <dimen name="height_txt_dogs">50dp</dimen>
+    <dimen name="width_txt_dogs">200dp</dimen>
+
+    <!-- PROPIEDADES DEL TEXTO LIKE num_likes  -->
+    <dimen name="size_num_likes">20sp</dimen>
+    <dimen name="margin_left_num_likes">290dp</dimen>
+    <dimen name="margin_top_likes">400dp</dimen>
+    <dimen name="height_likes">50dp</dimen>
+    <dimen name="width_likes">50dp</dimen>
+
+
+    <!-- PROPIEDADES DE LA IMAGEN CENTRAL DOGS  -->
+    <dimen name="top_img_dogs">10dp</dimen>
+    <dimen name="left_img_dogs">18dp</dimen>
+    <dimen name="right_img_dogs">20dp</dimen>
+    <dimen name="size_img_dogs">100sp</dimen>
+    <dimen name="height_img_dogs">377dp</dimen>
+    <dimen name="width_img_dogs">377dp</dimen>
+
+    <!-- PROPIEDADES DE LA IMAGEN HUESO AMARILLO  -->
+    <dimen name="top_hueso_yelow">400dp</dimen>
+    <dimen name="left_hueso_yelow">340dp</dimen>
+    <dimen name="height_hueso_yelow">50dp</dimen>
+    <dimen name="width_hueso_yelow">50dp</dimen>
+
+    <!-- PROPIEDADES DE LA IMAGEN HUESO BLANCO  -->
+    <dimen name="top_hueso_white">400dp</dimen>
+    <dimen name="left_hueso_white">20dp</dimen>
+    <dimen name="height_hueso_white">50dp</dimen>
+    <dimen name="width_hueso_white">50dp</dimen>
+
+    <!-- PROPIEDADES DE LA IMAGEN HUELLA  -->
+    <dimen name="top_huella">400dp</dimen>
+    <dimen name="left_huella">20dp</dimen>
+    <dimen name="right_huella">20dp</dimen>
+    <dimen name="size_huella">100dp</dimen>
+    <dimen name="height_hueso_huella">10dp</dimen>
+    <dimen name="width_hueso_huella">10dp</dimen>
+
+    <!-- PROPIEDADES DE LA IMAGEN ESTRELLA  -->
+    <dimen name="top_estrella">600dp</dimen>
+    <dimen name="left_estrella">20dp</dimen>
+    <dimen name="right_estrella">20dp</dimen>
+    <dimen name="size_estrella">100dp</dimen>
+    <dimen name="height_hueso_estrella">10dp</dimen>
+    <dimen name="width_hueso_estrella">10dp</dimen>
+
+    <!-- PROPIEDADES DE LA IMAGEN CAMARA FOTOGRAFICA  -->
+    <dimen name="top_camara">600dp</dimen>
+    <dimen name="left_camara">20dp</dimen>
+    <dimen name="right_camara">20dp</dimen>
+    <dimen name="size_camara">100dp</dimen>
+    <dimen name="height_hueso_camara">10dp</dimen>
+    <dimen name="width_hueso_camara">10dp</dimen>
+
+
+
+</resources>
